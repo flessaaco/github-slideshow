@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What did the fish say when he swam into a wall? --*dam*
 Use the left arrow to go back!
